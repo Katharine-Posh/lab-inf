@@ -1,0 +1,6 @@
+2024-12-01 Error: File not found
+2024-12-02 Warning: Disk space low
+2024-12-03 Info: Backup completed
+2024-12-04 Error: Permission denied
+2024-12-05 Info: User logged in
+2024-12-06 Warning: High memory usage
